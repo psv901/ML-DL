@@ -10,8 +10,8 @@ In prior algorithms the model was applied to an image at multiple locations and 
 
 => yolov3 much faster and efficient.
 
-paper:https://pjreddie.com/media/files/papers/YOLOv3.pdf
+paper: https://pjreddie.com/media/files/papers/YOLOv3.pdf
 
-https://github.com/pjreddie/darknet/blob/master/data/coco.names
+Dataset: https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
 pretrained weights and cfg files can be downloaded: https://pjreddie.com/darknet/yolo/
